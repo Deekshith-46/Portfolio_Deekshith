@@ -1,0 +1,55 @@
+DEEKSHITH THONTI
+tdeekshith46@gmail.com 9963735220 Hyderabad, Telangana linkedin.com/in/deekshiththonti
+github.com/Deekshith-46 https://deekshith-46.github.io/Portfolio/
+CAREER OBJECTIVE
+As a recent B.Tech CSE graduate, I have hands-on experience in front-end development using HTML, CSS, JavaScript, and
+React.js. I’ve worked on real-time projects and internships involving responsive UI design, API integration, and
+performance optimization. Familiar with backend technologies like Node.js, Express.js, and databases including
+MongoDB and MySQL. Passionate about building user-friendly web apps and pursuing a career in web development.
+EDUCATION
+B.Tech, Computer Science and Engineering
+Kshatriya College of Engineering
+2020 – 2024
+CGPA: 7.67
+PROJECTS
+Financial Tracker – MERN Stack Web App
+•Developed a financial management application to help users track income, expenses, and monitor financial trends
+using MongoDB, Express.js, React.js, and Node.js.
+•Implemented core features like user registration/login with JWT authentication, transaction management, and visual
+reports using chart libraries.
+•Designed RESTful APIs for efficient data handling with secure frontend-backend communication.
+•Enhanced performance by reducing component re-renders, optimizing data fetching, and improving dashboard
+responsiveness.
+Echo Beats, Music Website
+•Created a responsive music streaming website with a clean, interactive UI for browsing and listening to music.
+•Included features like album cards, hover-based play buttons, artist info display, and audio preview using the Audio
+API.
+•Used DOM manipulation to dynamically load songs and controls, ensuring smooth cross-device performance.
+•Improved load speed using compressed media files, modular CSS, and lightweight JavaScript for better user
+experience.
+TECHNICAL SKILLS
+•Programming Languages: JavaScript, Python(Basics), Java(Basics)
+•Front-End Development: HTML, CSS, JavaScript
+•Back-End Development: Node.js
+•Libraries & Frameworks: React.js, Express.js, Bootstrap
+•Database: MySQL, MongoDB
+•Version Control: Git, GitHub
+•Developer Tools: Postman
+SOFT SKILLS
+•Problem-solving
+•Quick Learner
+•Collaboration and Teamwork
+•Patience
+•Creativity
+•Analytical Abilities
+•Logical Thinking
+INTERNSHIPS
+INNOBYTE SERVICES
+Web Developer Intern
+September 2024 – October 2024
+•Developed and maintained responsive websites using front-end technologies, ensuring smooth functionality across
+different screen sizes and devices.
+•Improved website performance and UI components, enhancing user experience, navigation flow, and visual
+consistency.
+CERTIFICATES
+Full Stack Developer NodeJS - 10000 Coders
